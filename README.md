@@ -1,4 +1,4 @@
-# Meet Minas
+# Meet Bahia
 
 Landing page simulating a travel agency focused in Minas Gerais.
 
